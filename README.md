@@ -23,9 +23,6 @@
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/807066456310546442" target="_blank">
-    <img src="https://img.icons8.com/?size=52&id=D2NqKl85S8Ye&format=png" alt="discord logo"  />
-  </a>
   <a href="https://www.instagram.com/adzanf1" target="_blank">
     <img src="https://img.icons8.com/?size=52&id=nj0Uj45LGUYh&format=png" alt="instagram logo"  />
   </a>
